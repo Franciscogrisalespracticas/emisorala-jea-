@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Pereira",
+    "slug": "pereira",
+    "accent": "Capital de Risaralda, movilidad, cultura y servicios regionales.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plaza%20Bolivar%20Pereira.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Plaza_Bolivar_Pereira.JPG",
+    "imageCredit": "Petruss / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 4.0",
+    "featuredPlace": "Plaza de Bolívar",
+    "localImage": "assets/img/municipalities/pereira.jpg"
+  },
+  {
+    "name": "Dosquebradas",
+    "slug": "dosquebradas",
+    "accent": "Industria, emprendimiento, innovación y vida metropolitana.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vista%20de%20Dosquebradas%20y%20Pereira%20desde%20el%20alto%20del%20Boquer%C3%B3n%20-%20Flickr%20-%20Alejandro%20Bayer.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_de_Dosquebradas_y_Pereira_desde_el_alto_del_Boquer%C3%B3n_-_Flickr_-_Alejandro_Bayer.jpg",
+    "imageCredit": "Alejandro Bayer Tamayo / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 2.0",
+    "featuredPlace": "Valle de Dosquebradas",
+    "localImage": "assets/img/municipalities/dosquebradas.jpg"
+  },
+  {
+    "name": "Santa Rosa de Cabal",
+    "slug": "santa-rosa-de-cabal",
+    "accent": "Termalismo, gastronomía, paisaje cafetero y turismo de naturaleza.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Santa%20Rosa%20de%20Cabal%20-%20Desde%20Don%20Lolo.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Santa_Rosa_de_Cabal_-_Desde_Don_Lolo.jpg",
+    "imageCredit": "Julián Salazar Valencia / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 4.0",
+    "featuredPlace": "Paisaje de Santa Rosa de Cabal",
+    "localImage": "assets/img/municipalities/santa-rosa-de-cabal.jpg"
+  },
+  {
+    "name": "La Virginia",
+    "slug": "la-virginia",
+    "accent": "Ríos, comercio, movilidad regional y comunidad del valle del Risaralda.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paisaje%20La%20Virginia%2C%20Risaralda.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Paisaje_La_Virginia,_Risaralda.jpg",
+    "imageCredit": "Sant1306 / Wikimedia Commons",
+    "imageLicense": "CC0 1.0",
+    "featuredPlace": "Paisaje hacia Tatamá",
+    "localImage": "assets/img/municipalities/la-virginia.jpg"
+  },
+  {
+    "name": "La Celia",
+    "slug": "la-celia",
+    "accent": "Occidente risaraldense, paisaje montañoso y cultura cafetera.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Panoramico%20-%20La%20Celia%20Risaralda%20-%20panoramio.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Panoramico_-_La_Celia_Risaralda_-_panoramio.jpg",
+    "imageCredit": "fabiozp80 / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 3.0",
+    "featuredPlace": "Panorámica de La Celia",
+    "localImage": "assets/img/municipalities/la-celia.jpg"
+  },
+  {
+    "name": "Apía",
+    "slug": "apia",
+    "accent": "Aves, café, montañas y actividades de naturaleza.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ap%C3%ADa%20-%20Risaralda%20%2813961150287%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ap%C3%ADa_-_Risaralda_(13961150287).jpg",
+    "imageCredit": "Alejandro Bayer Tamayo / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 2.0",
+    "featuredPlace": "Paisaje de Apía",
+    "localImage": "assets/img/municipalities/apia.jpg"
+  },
+  {
+    "name": "Balboa",
+    "slug": "balboa",
+    "accent": "Paisaje rural y miradores del occidente de Risaralda.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Balboa%20risaralda%20-%20panoramio.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Balboa_risaralda_-_panoramio.jpg",
+    "imageCredit": "harrigonsa / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 3.0",
+    "featuredPlace": "Panorámica de Balboa",
+    "localImage": "assets/img/municipalities/balboa.jpg"
+  },
+  {
+    "name": "Belén de Umbría",
+    "slug": "belen-de-umbria",
+    "accent": "Producción agroindustrial, café y actividad comercial del occidente.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Belen%20de%20umbria.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Belen_de_umbria.jpg",
+    "imageCredit": "Kafetero1 / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 3.0",
+    "featuredPlace": "Centro de Belén de Umbría",
+    "localImage": "assets/img/municipalities/belen-de-umbria.jpg"
+  },
+  {
+    "name": "Guática",
+    "slug": "guatica",
+    "accent": "Montaña, agricultura y renovación de espacios urbanos.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gu%C3%A1tica%20visto%20desde%20la%20Via%20Anserma%20-%20Riosucio%20-%20panoramio.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gu%C3%A1tica_visto_desde_la_Via_Anserma_-_Riosucio_-_panoramio.jpg",
+    "imageCredit": "rothware / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 3.0",
+    "featuredPlace": "Vista de Guática",
+    "localImage": "assets/img/municipalities/guatica.jpg"
+  },
+  {
+    "name": "Marsella",
+    "slug": "marsella",
+    "accent": "Patrimonio, arquitectura, jeeps, café y tradición de plaza de mercado.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Marsella.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Marsella.jpg",
+    "imageCredit": "Adrimarg / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 3.0",
+    "featuredPlace": "Centro histórico de Marsella",
+    "localImage": "assets/img/municipalities/marsella.jpg"
+  },
+  {
+    "name": "Mistrató",
+    "slug": "mistrato",
+    "accent": "Territorio montañoso, comunidades y servicios sociales del occidente.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Iglesia%20de%20San%20Antonio%20del%20Cham%C3%AD.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Antonio_del_Cham%C3%AD.JPG",
+    "imageCredit": "Arboleda9106 / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 3.0 (también GFDL)",
+    "featuredPlace": "San Antonio del Chamí",
+    "localImage": "assets/img/municipalities/mistrato.jpg"
+  },
+  {
+    "name": "Pueblo Rico",
+    "slug": "pueblo-rico",
+    "accent": "Biodiversidad, comunidades rurales y conexión con el Chocó biogeográfico.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pueblo%20Rico%20Rda.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pueblo_Rico_Rda.jpg",
+    "imageCredit": "Fabio.morales / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 4.0",
+    "featuredPlace": "Plaza principal de Pueblo Rico",
+    "localImage": "assets/img/municipalities/pueblo-rico.jpg"
+  },
+  {
+    "name": "Quinchía",
+    "slug": "quinchia",
+    "accent": "Paisaje, minería tradicional, agricultura y cultura del norte risaraldense.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cerro%20Batero%20Quinch%C3%ADa.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cerro_Batero_Quinch%C3%ADa.jpg",
+    "imageCredit": "Luisdiazcalle / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 4.0",
+    "featuredPlace": "Cerro Batero",
+    "localImage": "assets/img/municipalities/quinchia.jpg"
+  },
+  {
+    "name": "Santuario",
+    "slug": "santuario",
+    "accent": "Calle Real, paisaje cafetero y puerta de entrada al Tatamá.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Santuario%20%28Risaralda%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Santuario_(Risaralda).jpg",
+    "imageCredit": "JuanMunduy / Wikimedia Commons",
+    "imageLicense": "CC BY-SA 3.0",
+    "featuredPlace": "Balcones de la Calle Real",
+    "localImage": "assets/img/municipalities/santuario.jpg"
+  }
+]

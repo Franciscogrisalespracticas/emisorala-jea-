@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#070b0c" />
+  <title>La Jefa 91.1 · Panel editorial</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body class="admin-body">
+  <aside class="admin-sidebar">
+    <a class="admin-logo" href="index.html" aria-label="Volver a La Jefa 91.1"><strong>LA JEFA</strong><b>91.1</b><span>PANEL EDITORIAL</span></a>
+    <nav id="adminNav" aria-label="Administración">
+      <button class="active" data-admin-view="dashboard">▦ Dashboard</button>
+      <button data-admin-view="noticias">▧ Noticias</button>
+      <button data-admin-view="programacion">▣ Programación</button>
+      <button data-admin-view="contenidos">◉ Programas y voces</button>
+      <button data-admin-view="eventos">◇ Eventos</button>
+      <button data-admin-view="senales">◌ Señales</button>
+      <button data-admin-view="comunidad">♡ Comunidad</button>
+      <button data-admin-view="usuarios">♙ Usuarios y roles</button>
+    </nav>
+    <a class="admin-back" href="index.html">← Ver sitio público</a>
+  </aside>
+  <main class="admin-main">
+    <header class="admin-top">
+      <div><span>GESTIÓN DE CONTENIDOS</span><h1 id="adminTitle">Dashboard</h1></div>
+      <div class="admin-profile"><span class="status-dot"></span> Super Admin</div>
+    </header>
+    <section id="adminContent" aria-live="polite"></section>
+  </main>
+  <dialog class="modal admin-editor-modal" id="adminModal"><button class="modal-close" data-close-modal aria-label="Cerrar">×</button><div id="adminModalContent"></div></dialog>
+  <div class="toast" id="adminToast" role="status" aria-live="polite"></div>
+  <script src="assets/js/admin.js"></script>
+</body>
+</html>

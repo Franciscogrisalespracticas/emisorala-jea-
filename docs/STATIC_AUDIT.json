@@ -1,0 +1,163 @@
+{
+  "summary": {
+    "pass": 31,
+    "fail": 0
+  },
+  "checks": [
+    {
+      "check": "JSON válido: municipalities",
+      "status": "PASS",
+      "detail": "14 registros"
+    },
+    {
+      "check": "JSON válido: news",
+      "status": "PASS",
+      "detail": "14 registros"
+    },
+    {
+      "check": "JSON válido: audio",
+      "status": "PASS",
+      "detail": "14 registros"
+    },
+    {
+      "check": "JSON válido: programs",
+      "status": "PASS",
+      "detail": "35 registros"
+    },
+    {
+      "check": "JSON válido: podcasts",
+      "status": "PASS",
+      "detail": "5 registros"
+    },
+    {
+      "check": "JSON válido: events",
+      "status": "PASS",
+      "detail": "3 registros"
+    },
+    {
+      "check": "JSON válido: voices",
+      "status": "PASS",
+      "detail": "3 registros"
+    },
+    {
+      "check": "14 municipios de Risaralda",
+      "status": "PASS",
+      "detail": "['Pereira', 'Dosquebradas', 'Santa Rosa de Cabal', 'La Virginia', 'La Celia', 'Apía', 'Balboa', 'Belén de Umbría', 'Guática', 'Marsella', 'Mistrató', 'Pueblo Rico', 'Quinchía', 'Santuario']"
+    },
+    {
+      "check": "Cada municipio tiene contenido editorial",
+      "status": "PASS",
+      "detail": "14/14"
+    },
+    {
+      "check": "Cada municipio tiene selección sonora",
+      "status": "PASS",
+      "detail": "14/14"
+    },
+    {
+      "check": "Programación cubre lunes-domingo",
+      "status": "PASS",
+      "detail": "[0, 1, 2, 3, 4, 5, 6]"
+    },
+    {
+      "check": "Fuentes HTTP documentadas: noticias",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Fuentes HTTP documentadas: audio",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Fuentes HTTP documentadas: municipios",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Audios locales de respaldo y podcasts existen",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "index.html: IDs únicos",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "index.html: sin href=#",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "admin.html: IDs únicos",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "admin.html: sin href=#",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "credits.html: IDs únicos",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "credits.html: sin href=#",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "index.html: assets/enlaces locales existen",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "admin.html: assets/enlaces locales existen",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "credits.html: assets/enlaces locales existen",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "index.html: sin etiquetas de prototipo visibles",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "admin.html: sin etiquetas de prototipo visibles",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "credits.html: sin etiquetas de prototipo visibles",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "app.js cubre controles públicos clave",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "admin.js cubre módulos administrativos",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Se retiraron assets antiguos de demostración",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Documentación y preparación de media incluidas",
+      "status": "PASS",
+      "detail": "[]"
+    }
+  ]
+}

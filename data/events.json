@@ -1,0 +1,35 @@
+[
+  {
+    "id": "event-dosq-ciencia",
+    "title": "Semana de la Ciencia, Tecnología e Innovación",
+    "municipality": "Dosquebradas",
+    "start": "2026-11-09",
+    "end": "2026-11-13",
+    "venue": "Dosquebradas, Risaralda",
+    "description": "Cinco días con recorridos tecnológicos, proyectos, inteligencia artificial y competencias de robótica.",
+    "sourceName": "Alcaldía de Dosquebradas",
+    "sourceUrl": "https://dosquebradas.gov.co/web/index.php/dosquebradas/ciudad/sala-de-prensa/noticias"
+  },
+  {
+    "id": "event-marsella-juegos",
+    "title": "Final de los Juegos Departamentales Campesinos y Veredales 2026",
+    "municipality": "Marsella",
+    "start": "2026-11-01",
+    "end": "2026-11-30",
+    "venue": "Marsella, Risaralda",
+    "description": "Durante noviembre Marsella recibe las finales departamentales en disciplinas de conjunto e individuales.",
+    "sourceName": "Espectacular 2000",
+    "sourceUrl": "https://espectacular2000.com/marsella-sera-sede-de-la-final-de-los-juegos-departamentales-campesinos-y-veredales-2026/"
+  },
+  {
+    "id": "event-apia-aves",
+    "title": "XVI Festival de las Aves Apía 2026",
+    "municipality": "Apía",
+    "start": "2026-10-30",
+    "end": "2026-11-02",
+    "venue": "Apía, Risaralda",
+    "description": "Encuentro dedicado al aviturismo y a la riqueza natural del municipio. El evento ya finalizó y queda en el archivo de la agenda regional.",
+    "sourceName": "Organización Ambiental Vida Silvestre",
+    "sourceUrl": "https://www.vidasilvestreapia.com/inscribirme/"
+  }
+]

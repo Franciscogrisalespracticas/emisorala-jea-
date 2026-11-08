@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#05090a" />
+  <meta name="description" content="La Jefa 91.1: radio, actualidad, programación y contenidos de Risaralda." />
+  <title>La Jefa 91.1 · El Eje suena aquí</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%2305090a'/><text x='50' y='62' text-anchor='middle' font-size='48' font-family='Arial' font-weight='900' fill='%23c9ff00'>91</text></svg>" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <audio id="radioAudio" preload="metadata"></audio>
+
+  <header class="site-header" id="top">
+    <a class="brand" href="#inicio" aria-label="La Jefa 91.1 inicio">
+      <span class="brand-berries" aria-hidden="true">●●●</span>
+      <span class="brand-copy"><strong>LA JEFA</strong><b>91.1</b><em>FM</em></span>
+    </a>
+    <span class="header-divider" aria-hidden="true"></span>
+    <nav class="desktop-nav" aria-label="Navegación principal">
+      <a class="active" href="#inicio">Inicio</a>
+      <a href="#emisoras">Emisoras</a>
+      <a href="#noticias">Noticias</a>
+      <a href="#programacion">Programación</a>
+      <a href="#podcasts">Podcasts</a>
+      <a href="#eventos">Eventos</a>
+    </nav>
+    <div class="header-actions">
+      <button class="live-cta" data-play-selected aria-label="Escuchar selección de La Jefa"><span>◉</span> ESCUCHAR AHORA</button>
+      <button class="icon-btn" id="searchOpen" aria-label="Buscar">⌕</button>
+      <button class="icon-btn menu-btn" id="menuOpen" aria-label="Abrir menú">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio" aria-labelledby="heroTitle">
+      <picture class="hero-bg">
+        <source srcset="assets/img/hero-master.webp" type="image/webp" />
+        <img src="assets/img/hero-master.jpg" alt="Paisaje cafetero de montaña con balcón y estudio de radio" />
+      </picture>
+      <div class="hero-video-shell" aria-hidden="true">
+        <video class="hero-video" autoplay muted loop playsinline preload="metadata" poster="assets/img/hero-master.jpg">
+          <source src="assets/video/hero-motion-right-840x940.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="hero-shade"></div>
+      <div class="hero-content">
+        <span class="hero-kicker">LA RADIO DE NUESTRA REGIÓN</span>
+        <h1 id="heroTitle"><span>EL EJE</span><strong>SUENA AQUÍ</strong></h1>
+        <p>La radio de nuestra región</p>
+        <div class="hero-player-card">
+          <button class="hero-play" data-play-selected aria-label="Reproducir selección"><span class="play-symbol">▶</span></button>
+          <span class="hero-player-line"></span>
+          <div class="hero-player-meta"><b>SELECCIÓN LA JEFA</b><strong>LA JEFA 91.1</strong><small id="heroMunicipality">Pereira · música de archivo</small></div>
+          <div class="mini-wave" aria-hidden="true"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="municipality-strip" id="emisoras" aria-label="Explorar contenido por municipio">
+      <div class="municipality-label"><span>⌖</span> Explora contenido en Risaralda:</div>
+      <div class="municipality-chips" id="municipalityChips"></div>
+      <button class="more-municipalities" id="openMunicipalities">Ver todo Risaralda →</button>
+    </section>
+
+    <section class="regional-focus section-wrap" id="regionalFocus" aria-live="polite">
+      <div class="regional-photo-shell"><img id="municipalityPhoto" src="assets/img/hero-master.jpg" alt="Imagen representativa del municipio seleccionado" /><a id="municipalityPhotoCredit" target="_blank" rel="noopener">Crédito de imagen</a></div>
+      <div class="regional-focus-copy"><span id="municipalityBadge">PEREIRA</span><h2 id="municipalityTitle">Pereira</h2><p id="municipalityIntro"></p><div class="regional-focus-actions"><button class="primary-btn" id="listenMunicipality">Escuchar Pereira</button><button class="secondary-btn" id="openMunicipalityNews">Ver noticias locales</button></div></div>
+    </section>
+
+    <section class="dashboard-row section-wrap">
+      <article class="home-panel news-panel" id="noticias">
+        <div class="panel-title-row"><h2><span class="cyan-icon">▧</span> NOTICIAS DE LA REGIÓN</h2><a href="#noticiasGrid">Ver más →</a></div>
+        <div class="featured-news">
+          <img id="featuredNewsImage" src="assets/img/hero-master.jpg" alt="Imagen de la noticia principal" />
+          <div><span class="source-tag" id="featuredNewsCategory">REGIÓN</span><h3 id="featuredNewsTitle"></h3><p id="featuredNewsText"></p><button class="text-link" id="featuredNewsOpen">Leer noticia →</button></div>
+        </div>
+      </article>
+
+      <article class="home-panel schedule-panel" id="programacion">
+        <div class="panel-title-row"><h2><span class="cyan-icon">▣</span> PROGRAMACIÓN DE HOY</h2><a href="#scheduleFull">Ver programación →</a></div>
+        <div class="schedule-list" id="scheduleMini"></div>
+      </article>
+
+      <article class="home-panel hosts-panel" id="voces">
+        <div class="panel-title-row"><h2><span class="cyan-icon">◉</span> PROGRAMAS Y VOCES</h2><a href="#voicesFull">Ver espacios →</a></div>
+        <div class="host-grid mini" id="voicesMini"></div>
+      </article>
+    </section>
+
+    <section class="content-section section-wrap" id="noticiasGrid">
+      <div class="section-heading"><div><span>ACTUALIDAD REGIONAL</span><h2>Noticias por municipio</h2></div><div class="section-filter" id="newsFilterLabel">Pereira</div></div>
+      <div class="news-grid" id="newsGrid"></div>
+    </section>
+
+    <section class="content-section section-wrap" id="scheduleFull">
+      <div class="section-heading"><div><span>PARRILLA</span><h2>Programación semanal</h2></div><div class="day-tabs" id="dayTabs"></div></div>
+      <div class="full-schedule" id="fullSchedule"></div>
+    </section>
+
+    <section class="content-section split-section" id="mapa">
+      <div class="section-wrap map-layout">
+        <div class="map-copy"><span>RISARALDA SUENA</span><h2>Explora la región</h2><p>Selecciona un municipio para cambiar fotografías, noticias, eventos y contexto regional. El audio solo cambia cuando tú eliges escucharlo.</p><div class="map-status"><b id="mapMunicipality">Pereira</b><span id="mapCoverage">Contenido regional disponible</span></div><div class="map-actions"><button class="primary-btn" id="mapExplore">Explorar</button><button class="secondary-btn" id="mapListen">Escuchar</button></div></div>
+        <div class="region-map" id="regionMap" role="group" aria-label="Mapa conceptual de municipios"></div>
+      </div>
+    </section>
+
+    <section class="content-section section-wrap" id="podcasts">
+      <div class="section-heading"><div><span>VUELVE A ESCUCHARLO</span><h2>Podcasts y boletines</h2></div><button class="ghost-btn" id="podcastArchiveBtn">Ver archivo</button></div>
+      <div class="podcast-grid" id="podcastGrid"></div>
+    </section>
+
+    <section class="content-section section-wrap" id="eventos">
+      <div class="section-heading"><div><span>LA JEFA EN LA REGIÓN</span><h2>Eventos y agenda</h2></div><button class="ghost-btn" id="calendarBtn">Calendario</button></div>
+      <div class="event-grid" id="eventGrid"></div>
+    </section>
+
+    <section class="content-section section-wrap" id="voicesFull">
+      <div class="section-heading"><div><span>PROGRAMAS Y VOCES</span><h2>Espacios al aire</h2></div></div>
+      <div class="hosts-detail-grid" id="voicesDetailGrid"></div>
+    </section>
+
+    <section class="community-band">
+      <div class="section-wrap community-layout">
+        <div><span>TU VOZ TAMBIÉN SUENA</span><h2>Participa con La Jefa</h2><p>Envía un saludo para moderación o participa en la encuesta activa. El equipo editorial puede gestionar la participación desde su panel.</p></div>
+        <div class="community-actions"><button class="primary-btn" id="greetingBtn">Enviar saludo</button><button class="secondary-btn" id="pollBtn">Responder encuesta</button></div>
+      </div>
+    </section>
+
+    <section class="sponsors section-wrap"><span>ESPACIOS COMERCIALES Y PATROCINADORES</span><div class="sponsor-track"><b>CAFÉ REGIONAL</b><b>EVENTO LOCAL</b><b>MARCA ALIADA</b><b>COMERCIO RISARALDENSE</b></div></section>
+  </main>
+
+  <footer class="site-footer">
+    <div><strong>LA JEFA 91.1</strong><p>Radio, actualidad y contenidos de Risaralda.</p></div>
+    <div><a href="#inicio">Inicio</a><a href="#noticias">Noticias</a><a href="#programacion">Programación</a><a href="credits.html">Créditos y fuentes</a><a href="admin.html">Panel editorial</a></div>
+    <small>Las noticias enlazan sus fuentes originales. La música de archivo conserva créditos y licencias consultables desde el reproductor y la página de créditos.</small>
+  </footer>
+
+  <div class="persistent-player" id="persistentPlayer">
+    <button class="skip-btn" id="prevTrack" aria-label="Anterior">⏮</button>
+    <button class="player-circle" data-play-selected aria-label="Reproducir o pausar"><span class="play-symbol">▶</span></button>
+    <button class="skip-btn" id="nextTrack" aria-label="Siguiente">⏭</button>
+    <span class="player-divider"></span>
+    <div class="player-copy"><strong>LA JEFA 91.1 · <b id="playerMode">SELECCIÓN</b></strong><small id="playerSubtitle">Pereira · preparando audio</small></div>
+    <div class="waveform" aria-hidden="true"></div>
+    <button class="mute-btn" id="muteBtn" aria-label="Silenciar">🔊</button>
+    <input id="volumeSlider" type="range" min="0" max="1" step="0.01" value="0.78" aria-label="Volumen" />
+    <button class="expand-btn" id="playerExpand" aria-label="Expandir reproductor">⛶</button>
+  </div>
+
+  <nav class="mobile-nav" aria-label="Navegación móvil"><a href="#inicio"><span>⌂</span>Inicio</a><button data-play-selected><span>◉</span>Radio</button><a href="#noticias"><span>▧</span>Noticias</a><a href="#programacion"><span>▣</span>Programación</a><button id="mobileMore"><span>☰</span>Más</button></nav>
+
+  <aside class="drawer" id="menuDrawer" aria-hidden="true"><div class="drawer-head"><b>LA JEFA 91.1</b><button data-close-drawer>×</button></div><nav><a href="#inicio">Inicio</a><a href="#emisoras">Emisoras</a><a href="#noticiasGrid">Noticias</a><a href="#scheduleFull">Programación</a><a href="#podcasts">Podcasts</a><a href="#eventos">Eventos</a><a href="#voicesFull">Programas y voces</a><a href="credits.html">Créditos y fuentes</a><a href="admin.html">Panel editorial</a></nav></aside>
+  <div class="scrim" id="scrim"></div>
+
+  <dialog class="modal" id="municipalityModal"><button class="modal-close" data-close-modal>×</button><span class="modal-kicker">RISARALDA</span><h2>Selecciona un municipio</h2><p>Explora fotografías, noticias y contenidos propios de cada localidad.</p><div class="municipality-modal-grid" id="municipalityModalGrid"></div></dialog>
+  <dialog class="modal search-modal" id="searchModal"><button class="modal-close" data-close-modal>×</button><span class="modal-kicker">BUSCAR</span><h2>Encuentra contenido</h2><input id="searchInput" type="search" placeholder="Noticias, programas, municipios, podcasts…" autofocus /><div id="searchResults" class="search-results"></div></dialog>
+  <dialog class="modal content-modal" id="contentModal"><button class="modal-close" data-close-modal>×</button><div id="contentModalBody"></div></dialog>
+  <dialog class="modal" id="communityModal"><button class="modal-close" data-close-modal>×</button><div id="communityModalContent"></div></dialog>
+  <dialog class="modal" id="podcastArchiveModal"><button class="modal-close" data-close-modal>×</button><div id="podcastArchiveContent"></div></dialog>
+  <dialog class="modal" id="calendarModal"><button class="modal-close" data-close-modal>×</button><div id="calendarContent"></div></dialog>
+  <dialog class="modal player-modal" id="playerModal"><button class="modal-close" data-close-modal>×</button><div id="playerModalContent"></div></dialog>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

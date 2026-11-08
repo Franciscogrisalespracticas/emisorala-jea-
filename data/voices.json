@@ -1,0 +1,26 @@
+[
+  {
+    "id": "voice-actualidad",
+    "title": "Mesa de Actualidad",
+    "program": "Primera Hora Regional",
+    "schedule": "06:00–09:00",
+    "description": "Espacio de noticias, movilidad y servicio para comenzar la jornada.",
+    "icon": "◉"
+  },
+  {
+    "id": "voice-region",
+    "title": "Voces de la Región",
+    "program": "Risaralda Suena",
+    "schedule": "15:00–18:00",
+    "description": "Historias, municipios, turismo y conversación alrededor del territorio.",
+    "icon": "⌖"
+  },
+  {
+    "id": "voice-noche",
+    "title": "Selección 91.1",
+    "program": "La Noche 91.1",
+    "schedule": "18:00–21:00",
+    "description": "Música de archivo y contenidos para acompañar el cierre del día.",
+    "icon": "♫"
+  }
+]

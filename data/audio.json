@@ -1,0 +1,142 @@
+[
+  {
+    "municipality": "Pereira",
+    "title": "Cachirí",
+    "artist": "Murga la Bomboná",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cachiri.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cachiri.ogg",
+    "license": "CC BY 3.0",
+    "fallback": "assets/audio/municipalities/pereira.mp3",
+    "localCache": "assets/audio/open/pereira.ogg"
+  },
+  {
+    "municipality": "Dosquebradas",
+    "title": "Flor de Romero",
+    "artist": "Ministerio de Cultura de Colombia",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flor%20de%20Romero..ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flor_de_Romero..ogg",
+    "license": "Dominio público (según ficha de Commons)",
+    "fallback": "assets/audio/municipalities/dosquebradas.mp3",
+    "localCache": "assets/audio/open/dosquebradas.ogg"
+  },
+  {
+    "municipality": "Santa Rosa de Cabal",
+    "title": "Ojito de Agua",
+    "artist": "Ministerio de Cultura de Colombia",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ojito%20de%20Agua.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ojito_de_Agua.ogg",
+    "license": "Dominio público (según ficha de Commons)",
+    "fallback": "assets/audio/municipalities/santa-rosa-de-cabal.mp3",
+    "localCache": "assets/audio/open/santa-rosa-de-cabal.ogg"
+  },
+  {
+    "municipality": "La Virginia",
+    "title": "La Guayabita",
+    "artist": "Ministerio de Cultura de Colombia",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20Guayabita.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Guayabita.ogg",
+    "license": "Dominio público (según ficha de Commons)",
+    "fallback": "assets/audio/municipalities/la-virginia.mp3",
+    "localCache": "assets/audio/open/la-virginia.ogg"
+  },
+  {
+    "municipality": "La Celia",
+    "title": "Ángela",
+    "artist": "Ministerio de Cultura de Colombia",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%81ngela.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%81ngela.ogg",
+    "license": "Dominio público (según ficha de Commons)",
+    "fallback": "assets/audio/municipalities/la-celia.mp3",
+    "localCache": "assets/audio/open/la-celia.ogg"
+  },
+  {
+    "municipality": "Apía",
+    "title": "Siquele",
+    "artist": "Ministerio de Cultura de Colombia",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Siquele.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siquele.ogg",
+    "license": "Dominio público (según ficha de Commons)",
+    "fallback": "assets/audio/municipalities/apia.mp3",
+    "localCache": "assets/audio/open/apia.ogg"
+  },
+  {
+    "municipality": "Balboa",
+    "title": "Rub a Dub",
+    "artist": "Ministerio de Cultura de Colombia",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rub%20a%20Dub.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rub_a_Dub.ogg",
+    "license": "Dominio público (según ficha de Commons)",
+    "fallback": "assets/audio/municipalities/balboa.mp3",
+    "localCache": "assets/audio/open/balboa.ogg"
+  },
+  {
+    "municipality": "Belén de Umbría",
+    "title": "Coplas del Terruño",
+    "artist": "Jorge Áñez Avendaño, Alcides Briceño y Orquesta Colombiana",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jorge%20%C3%81%C3%B1ez%20Avenda%C3%B1o%20and%20Alcides%20Brice%C3%B1o%20performing%20%22Coplas%20del%20Terru%C3%B1o%22%20in%20December%201927.mp3",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jorge_%C3%81%C3%B1ez_Avenda%C3%B1o_and_Alcides_Brice%C3%B1o_performing_%22Coplas_del_Terru%C3%B1o%22_in_December_1927.mp3",
+    "license": "Dominio público en EE. UU. (publicado antes de 1931)",
+    "fallback": "assets/audio/municipalities/belen-de-umbria.mp3",
+    "localCache": "assets/audio/open/belen-de-umbria.mp3"
+  },
+  {
+    "municipality": "Guática",
+    "title": "Cumbia Panameña",
+    "artist": "José Augusto Broce",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cumbia%20Paname%C3%B1a.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cumbia_Paname%C3%B1a.ogg",
+    "license": "Dominio público según ficha de Commons",
+    "fallback": "assets/audio/municipalities/guatica.mp3",
+    "localCache": "assets/audio/open/guatica.ogg"
+  },
+  {
+    "municipality": "Marsella",
+    "title": "La aparición",
+    "artist": "Tobías Plicet y su conjunto",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20aparici%C3%B3n.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_aparici%C3%B3n.ogg",
+    "license": "Dominio público según ficha de Commons",
+    "fallback": "assets/audio/municipalities/marsella.mp3",
+    "localCache": "assets/audio/open/marsella.ogg"
+  },
+  {
+    "municipality": "Mistrató",
+    "title": "Llano de piedra",
+    "artist": "Colaco Cortez",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Llano%20de%20piedra%20colaco%20cortez~1.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llano_de_piedra_colaco_cortez~1.ogg",
+    "license": "Dominio público según ficha de Commons",
+    "fallback": "assets/audio/municipalities/mistrato.mp3",
+    "localCache": "assets/audio/open/mistrato.ogg"
+  },
+  {
+    "municipality": "Pueblo Rico",
+    "title": "La Libertadora / Himno de la Gran Colombia",
+    "artist": "Archivo histórico",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National%20anthem%20of%20Gran%20Colombia.oga",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_anthem_of_Gran_Colombia.oga",
+    "license": "CC0",
+    "fallback": "assets/audio/municipalities/pueblo-rico.mp3",
+    "localCache": "assets/audio/open/pueblo-rico.oga"
+  },
+  {
+    "municipality": "Quinchía",
+    "title": "Canción instrumental de archivo",
+    "artist": "Guitar Webpages",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Song.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Song.ogg",
+    "license": "Dominio público",
+    "fallback": "assets/audio/municipalities/quinchia.mp3",
+    "localCache": "assets/audio/open/quinchia.ogg"
+  },
+  {
+    "municipality": "Santuario",
+    "title": "La puya rebelde",
+    "artist": "Ministerio de Cultura de Colombia",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20puya%20rebelde.ogg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_puya_rebelde.ogg",
+    "license": "Dominio público (según ficha de Commons)",
+    "fallback": "assets/audio/municipalities/santuario.mp3",
+    "localCache": "assets/audio/open/santuario.ogg"
+  }
+]

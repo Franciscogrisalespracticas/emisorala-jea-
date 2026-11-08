@@ -1,0 +1,142 @@
+[
+  {
+    "id": "pereira-megabici",
+    "municipality": "Pereira",
+    "category": "Movilidad",
+    "publishedAt": "2026-11-05",
+    "title": "Pereira reactiva siete estaciones de MegaBici y pone 101 bicicletas a disposición",
+    "summary": "El sistema público de bicicletas volvió a operar en siete estaciones de la ciudad. La Alcaldía informó que el servicio funcionará de 7:00 a. m. a 5:00 p. m. y será gratuito para los usuarios.",
+    "sourceName": "Alcaldía de Pereira",
+    "sourceUrl": "https://www.pereira.gov.co/publicaciones/noticias/"
+  },
+  {
+    "id": "dosquebradas-cti",
+    "municipality": "Dosquebradas",
+    "category": "Innovación",
+    "publishedAt": "2026-11-05",
+    "title": "Dosquebradas prepara cinco días de ciencia, tecnología e innovación",
+    "summary": "Entre el 9 y el 13 de noviembre el municipio reunirá estudiantes, emprendedores, empresarios e investigadores con recorridos tecnológicos, exhibición de proyectos, inteligencia artificial y robótica.",
+    "sourceName": "Alcaldía de Dosquebradas",
+    "sourceUrl": "https://dosquebradas.gov.co/web/index.php/dosquebradas/ciudad/sala-de-prensa/noticias"
+  },
+  {
+    "id": "santarosa-pueblo-milagro",
+    "municipality": "Santa Rosa de Cabal",
+    "category": "Turismo",
+    "publishedAt": "2026-11-06",
+    "title": "Santa Rosa de Cabal fue seleccionado en el programa Pueblos Milagro",
+    "summary": "El municipio ocupó el tercer lugar de la iniciativa y proyecta adecuaciones en corredores turísticos y comerciales, además de un mirador en el recinto gastronómico.",
+    "sourceName": "CiudadRegion Noticias",
+    "sourceUrl": "https://ciudadregion.com/regiones/risaralda/santa-rosa-de-cabal-elegido-pueblo-milagro-obras-turismo-fontur"
+  },
+  {
+    "id": "lavirginia-vivienda",
+    "municipality": "La Virginia",
+    "category": "Vivienda",
+    "publishedAt": "2026-10-08",
+    "title": "La Virginia tendrá 110 viviendas de interés prioritario dentro de nueva inversión departamental",
+    "summary": "La Gobernación y la EDUR socializaron un proyecto de vivienda que contempla 110 unidades en La Virginia y 17 en Quinchía para hogares que cumplan los requisitos establecidos.",
+    "sourceName": "EDUR Risaralda",
+    "sourceUrl": "https://www.edur.gov.co/gobernacion-de-risaralda-invertira-18-725-millones-en-viviendas-de-interes-prioritario-para-la-virginia-y-quinchia/"
+  },
+  {
+    "id": "lacelia-riesgo",
+    "municipality": "La Celia",
+    "category": "Gestión del riesgo",
+    "publishedAt": "2026-11-03",
+    "title": "La Celia aparece con amenaza moderada por deslizamientos según monitoreo oficial",
+    "summary": "El sistema nacional de gestión del riesgo reportó condiciones que requieren atención por lluvias y susceptibilidad del terreno a movimientos en masa.",
+    "sourceName": "UNGRD / IDEAM",
+    "sourceUrl": "https://www.gestiondelriesgo.gov.co/SNIGRD/alertas.aspx?id=933266"
+  },
+  {
+    "id": "apia-alerta",
+    "municipality": "Apía",
+    "category": "Gestión del riesgo",
+    "publishedAt": "2026-11-03",
+    "title": "Apía mantiene vigilancia por amenaza moderada de deslizamientos",
+    "summary": "La alerta oficial se basa en el comportamiento de las lluvias y la susceptibilidad de las laderas, con énfasis en prevención y monitoreo territorial.",
+    "sourceName": "UNGRD / IDEAM",
+    "sourceUrl": "https://www.gestiondelriesgo.gov.co/SNIGRD/alertas.aspx?id=933264"
+  },
+  {
+    "id": "balboa-alerta",
+    "municipality": "Balboa",
+    "category": "Gestión del riesgo",
+    "publishedAt": "2026-11-07",
+    "title": "Balboa entra en seguimiento por amenaza moderada de deslizamientos",
+    "summary": "El reporte de gestión del riesgo advierte sobre condiciones de lluvia y terreno que pueden favorecer movimientos en masa en sectores susceptibles del municipio.",
+    "sourceName": "UNGRD / IDEAM",
+    "sourceUrl": "https://www.gestiondelriesgo.gov.co/SNIGRD/alertas.aspx?id=938703"
+  },
+  {
+    "id": "belen-exporta",
+    "municipality": "Belén de Umbría",
+    "category": "Economía",
+    "publishedAt": "2026-11-06",
+    "title": "Belén de Umbría realiza su primera rueda de negocios internacional",
+    "summary": "Más de veinte compradores se interesaron en café, chocolate y productos agroindustriales durante una jornada que busca fortalecer la proyección comercial del municipio.",
+    "sourceName": "Rutas de Mi Pueblo / Gobernación de Risaralda",
+    "sourceUrl": "https://rutasdemipueblo.com/belen-de-umbria-fortalece-proyeccion-internacional/"
+  },
+  {
+    "id": "guatica-parque",
+    "municipality": "Guática",
+    "category": "Infraestructura",
+    "publishedAt": "2026-10-26",
+    "title": "Renuevan las vías alrededor del parque principal de Guática",
+    "summary": "La intervención recuperó cerca de 1.330 metros cuadrados de superficie vial alrededor del parque principal con una inversión departamental cercana a 400 millones de pesos.",
+    "sourceName": "Risaralda Hoy",
+    "sourceUrl": "https://risaraldahoy.com/gobernacion-de-risaralda-renovo-las-vias-alrededor-del-parque-principal-de-guatica-con-una-inversion-de-400-millones/"
+  },
+  {
+    "id": "marsella-turismo",
+    "municipality": "Marsella",
+    "category": "Turismo",
+    "publishedAt": "2026-11-04",
+    "title": "Marsella busca convertir su identidad cotidiana en una experiencia turística",
+    "summary": "La propuesta conecta jeeps tradicionales, plaza de mercado, gastronomía y comercio local dentro de una estrategia de reactivación turística y fortalecimiento económico.",
+    "sourceName": "La Región Risaralda",
+    "sourceUrl": "https://la-region.com/colombia/risaralda/marsella-busca-convertir-su-identidad-en-atractivos-turisticos"
+  },
+  {
+    "id": "mistrato-escucha",
+    "municipality": "Mistrató",
+    "category": "Bienestar",
+    "publishedAt": "2026-11-04",
+    "title": "Mistrató abre su primer Centro de Escucha Comunitario",
+    "summary": "El nuevo espacio ofrecerá escucha activa, acompañamiento y orientación psicoemocional con gestores capacitados dentro de la estrategia departamental de salud mental.",
+    "sourceName": "Rutas de Mi Pueblo",
+    "sourceUrl": "https://rutasdemipueblo.com/en-mistrato-se-abrio-el-primer-centro-de-escucha-comunitario/"
+  },
+  {
+    "id": "pueblorico-cacao",
+    "municipality": "Pueblo Rico",
+    "category": "Ambiente",
+    "publishedAt": "2026-11-06",
+    "title": "CARDER entrega 10.500 plántulas de cacao en Pueblo Rico",
+    "summary": "La iniciativa ambiental y productiva beneficia procesos comunitarios en Santa Cecilia y hace parte de un compromiso de entrega progresiva de material vegetal en el territorio.",
+    "sourceName": "El Pereirano",
+    "sourceUrl": "https://elpereirano.com/noticias/carder-entrega-10500-plantulas-de-cacao-en-pueblo-rico"
+  },
+  {
+    "id": "quinchia-vivienda",
+    "municipality": "Quinchía",
+    "category": "Vivienda",
+    "publishedAt": "2026-10-08",
+    "title": "Quinchía recibirá 17 viviendas dentro de proyecto de interés prioritario",
+    "summary": "El proyecto departamental de vivienda contempla nuevas unidades para familias que cumplan las condiciones definidas, dentro de una inversión compartida con La Virginia.",
+    "sourceName": "EDUR Risaralda",
+    "sourceUrl": "https://www.edur.gov.co/gobernacion-de-risaralda-invertira-18-725-millones-en-viviendas-de-interes-prioritario-para-la-virginia-y-quinchia/"
+  },
+  {
+    "id": "santuario-agua",
+    "municipality": "Santuario",
+    "category": "Servicios públicos",
+    "publishedAt": "2026-11-06",
+    "title": "Santuario prioriza nuevo tanque de reserva de agua tras afectaciones sísmicas",
+    "summary": "Autoridades departamentales y nacionales anunciaron gestiones para reemplazar una estructura de almacenamiento que presenta riesgos y garantizar la continuidad del servicio.",
+    "sourceName": "Noticias UNOA",
+    "sourceUrl": "https://noticiasunoa.com/2026/11/06/terremoto-dejo-afectaciones-en-los-sistemas-de-agua-y-saneamiento-de-risaralda/"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pod-pereira",
+    "title": "Pereira en 60 segundos",
+    "municipality": "Pereira",
+    "description": "Movilidad sostenible y servicios urbanos en la capital risaraldense.",
+    "date": "2026-11-08",
+    "audio": "assets/audio/podcasts/pereira.mp3"
+  },
+  {
+    "id": "pod-dosquebradas",
+    "title": "Dosquebradas: innovación esta semana",
+    "municipality": "Dosquebradas",
+    "description": "Agenda de ciencia, tecnología, emprendimiento y cultura local.",
+    "date": "2026-11-08",
+    "audio": "assets/audio/podcasts/dosquebradas.mp3"
+  },
+  {
+    "id": "pod-santarosa",
+    "title": "Santa Rosa y su impulso turístico",
+    "municipality": "Santa Rosa de Cabal",
+    "description": "Qué significa la selección del municipio en el programa Pueblos Milagro.",
+    "date": "2026-11-08",
+    "audio": "assets/audio/podcasts/santa-rosa.mp3"
+  },
+  {
+    "id": "pod-occidente",
+    "title": "Occidente de Risaralda: territorio y comunidad",
+    "municipality": "Mistrató",
+    "description": "Servicios comunitarios, prevención y acciones locales del occidente del departamento.",
+    "date": "2026-11-08",
+    "audio": "assets/audio/podcasts/occidente.mp3"
+  },
+  {
+    "id": "pod-cafe",
+    "title": "Café, turismo y economía local",
+    "municipality": "Marsella",
+    "description": "Tradiciones, comercio y turismo como motores para los municipios cafeteros.",
+    "date": "2026-11-08",
+    "audio": "assets/audio/podcasts/cafe.mp3"
+  }
+]
